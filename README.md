@@ -3,7 +3,7 @@
 
 - 🏋🏻 I’m currently working on [Privacy Policy App](https://github.com/raulbanut/privacy-policy-app) & [GPS-Project](https://github.com/raulbanut/GPS-Project)
 
-- 🌱 I’m currently learning **VueJs2, Firebase**
+- 🌱 I’m currently learning **VueJs2, Firebase, React**
 
 - 💬 Ask me about **Java, Spring**
 
