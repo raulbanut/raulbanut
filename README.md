@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Raul Banut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I am willing to learn new languages and technologies, because I believe that technology can benefit the day to day life of people. 💻🌍</h3>
 
-- 🏋🏻 I’m currently working on [Privacy Policy App](https://github.com/raulbanut/privacy-policy-app)
+- 🏋🏻 I’m currently working on [Privacy Policy App](https://github.com/raulbanut/privacy-policy-app) & [GPS-Project](https://github.com/raulbanut/GPS-Project)
 
 - 🌱 I’m currently learning **VueJs2, Firebase**
 
