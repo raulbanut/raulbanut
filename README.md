@@ -5,9 +5,9 @@
 
 - 🤓 I've worked on [Privacy Policy App](https://github.com/raulbanut/privacy-policy-app)
 
-- 🌱 I’m currently learning **Docker and React**
+- 🌱 I’m currently learning **SwiftUI and UIKIT**
 
-- 💬 Ask me about **Java, Spring, Docker and maybe React**
+- 💬 Ask me about **iOS, Swift**
 
 - 📫 How to reach me **banut.raul@gmail.com**
 
